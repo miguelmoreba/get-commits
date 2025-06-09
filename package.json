@@ -1,0 +1,16 @@
+{
+  "name": "get-commits-script",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "go": "node script.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}

@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Env variables
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific
+.DS_Store
+
+# Output / temp
+dist/
